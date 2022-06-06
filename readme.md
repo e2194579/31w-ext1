@@ -2,7 +2,7 @@
 ## Premier thème et plugin  Wordpress
 ### Contient 3 commits
 
-[github-page](https://e2194579.github.io/31w-ext1)
+[github-page](https://e2194579.github.io/31w-ext1) 
 > Le thème conient 5 fichiers:
 index.php
 style.css

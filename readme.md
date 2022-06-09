@@ -1,9 +1,8 @@
 # Exercice - 1
 ## Premier thème et plugin  Wordpress
-### Contient 3 commits
 
 [github-page](https://e2194579.github.io/31w-ext1/) 
-> Le thème conient Plusieurs fichiers dont:
+> Le thème contient Plusieurs fichiers dont:
 index.php
 style.css
 functions.php
